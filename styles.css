@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+  background-color: powderblue;
+}
+
+h1{
+  color:red;
+  font-family: sans-serif;
+}
+
+h2{
+  color:red;
+  font-family: sans-serif;
+}
+
+a{
+  font-size: 20px;
+}
+
+p{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.g{
+  font-size: 20px;
+}
